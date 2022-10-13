@@ -14,7 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 Github Pages via R Markdown and other RStudio tools. Below is the default generated content.
 
 [Index](/improved-giggle/index) |
-[Hello](/improved-giggle/hello)
+[Hello](/improved-giggle/hello) |
+[Test](/improved-giggle/test)
 
 ## R Markdown
 
@@ -35,7 +36,3 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-## Images
-
-![Lossy image :/](improved-giggle/images/nyc.jpg)

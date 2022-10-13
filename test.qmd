@@ -1,0 +1,30 @@
+---
+title: "Test Quarto Capabilities"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+## Images
+
+![Failed to load JPG image](/improved-giggles/images/nyc.jpg)
+
+## Python
+
+Import numpy, define Python function, and print Fibonnacci sequence.
+
+```{python}
+# label: fig-polar
+# fig-cap: "A line plot on a polar axis"
+
+import numpy as np;
+
+def mm_fib(n):
+    return (np.matrix([[2,1],[1,1]])**(n//2))[0,(n+1)%2]
+
+print([mm_fib(i) for i in range(20)])
+```
+
+## Rmarkdown
+ Todo
