@@ -26,5 +26,11 @@ def mm_fib(n):
 print([mm_fib(i) for i in range(20)])
 ```
 
-## Rmarkdown
- Todo
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+**Quarto supports R Markdown & Knit**
+
+```{r cars}
+summary(cars)
+```

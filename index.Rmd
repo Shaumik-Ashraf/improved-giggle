@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Index
 
-Github Pages via R Markdown and other RStudio tools. Below is the default generated content.
+Github Pages via [Quarto](https://quarto.org) tools.
 
 [Index](/improved-giggle/index) |
 [Hello](/improved-giggle/hello) |
