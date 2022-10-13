@@ -13,8 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Github Pages via R Markdown and other RStudio tools. Below is the default generated content.
 
-[Index](/index) |
-[Hello](/hello)
+[Index](/improved-giggle/index) |
+[Hello](/improved-giggle/hello)
 
 ## R Markdown
 
