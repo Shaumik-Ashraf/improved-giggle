@@ -38,4 +38,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ## Images
 
-![Lossy image :/](images/nyc.jpg)
+![Lossy image :/](improved-giggle/images/nyc.jpg)
